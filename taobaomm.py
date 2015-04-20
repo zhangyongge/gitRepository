@@ -1,4 +1,4 @@
-#encding=utf-8
+#encoding=utf-8
 import urllib2
 
 mmurl = 'http://mm.taobao.com/json/request_top_list.htm?type=0&page='
